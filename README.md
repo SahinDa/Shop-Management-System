@@ -1,4 +1,4 @@
-### Shop Management System
+## Shop Management System
 A file-based inventory management system with distinct functionalities for owners and customers.
 
 # Features:
